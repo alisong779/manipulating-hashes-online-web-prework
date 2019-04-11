@@ -7,7 +7,7 @@ def second_challenge
   }
 
 new_var = groceries.values 
-new_var
+new_var.flatten
 
   
 
