@@ -19,8 +19,8 @@ def first_challenge
      value.each do |flavor|
    if flavor.include? "strawberry" then 
       flavor.delete("strawberry")
-    end
-   end
+  end
+  end
  end
  end
  end
